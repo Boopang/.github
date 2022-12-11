@@ -58,5 +58,5 @@
 
 ## 문서
 
-[API 명세](https://documenter.getpostman.com/view/18173897/2s8YmLwizb)
+[API 명세](https://documenter.getpostman.com/view/18173897/2s8YmLwizb) <br>
 <a href="https://www.figma.com/file/NfWfXPghFLtYzWy2LPIymp/boos">디자인</a>
