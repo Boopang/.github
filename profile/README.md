@@ -59,4 +59,4 @@
 ## 문서
 
 [API 명세](https://documenter.getpostman.com/view/18173897/2s8YmLwizb)
-<p align="middle"><a href="https://www.figma.com/file/NfWfXPghFLtYzWy2LPIymp/boos">디자인</a></p>
+<a href="https://www.figma.com/file/NfWfXPghFLtYzWy2LPIymp/boos">디자인</a>
